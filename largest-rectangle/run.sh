@@ -1,0 +1,1 @@
+python largest-rectangle.py < data.txt
